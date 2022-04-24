@@ -552,6 +552,7 @@ html, body{
 .footer__left_under-title{
     font-size: 15px;
     color: #bcbcbc;
+    max-width: 180px;
 }
 .footer__center_email{
     font-family: var(--fNun);
